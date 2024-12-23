@@ -1,1 +1,1 @@
-# CODSOFT-task-4
+This project is a straightforward recommendation system made to make suggestions to users about movies or books depending on their interests. It analyzes user-item interactions through collaborative filtering, using cosine similarity on normalized data to determine user commonalities. The algorithm uses ratings from comparable users, weighted by how similar they are, to estimate a score when a user hasn't reviewed an item. In order to effectively tailor recommendations, it lastly suggests the top products with the greatest expected ratings for a user.
